@@ -1,0 +1,10 @@
+@import "./utils/vars";
+@import "./utils/snippets";
+@import "./sections/navbar";
+@import "./sections/showcase";
+@import "./sections/about";
+@import "./sections/authors";
+
+body {
+  margin-top: 105px;
+}
